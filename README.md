@@ -53,12 +53,12 @@ https://blog.sprov.xyz/2019/02/09/sprov-ui/
 > 请务必使用 root 用户运行！
 
 ```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://download.o2oyc.com/kmtemp/sprov-ui/blob/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+wget -O /usr/bin/sprov-ui -N --no-check-certificate https://download.o2oyc.com/kmtempx/sprov-ui/blob/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 
 ```
 或
 ```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://raw.githubusercontent.com/kmtemp/sprov-ui/master/install.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+wget -O /usr/bin/sprov-ui -N --no-check-certificate https://raw.githubusercontent.com/kmtempx/sprov-ui/master/install.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 
 ```
 # 常见问题
